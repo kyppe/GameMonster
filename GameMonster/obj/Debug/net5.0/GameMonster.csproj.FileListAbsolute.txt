@@ -1,0 +1,16 @@
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\bin\Debug\net5.0\GameMonster.exe
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\bin\Debug\net5.0\GameMonster.deps.json
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\bin\Debug\net5.0\GameMonster.runtimeconfig.json
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\bin\Debug\net5.0\GameMonster.runtimeconfig.dev.json
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\bin\Debug\net5.0\GameMonster.dll
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\bin\Debug\net5.0\ref\GameMonster.dll
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\bin\Debug\net5.0\GameMonster.pdb
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\obj\Debug\net5.0\GameMonster.csproj.AssemblyReference.cache
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\obj\Debug\net5.0\GameMonster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\obj\Debug\net5.0\GameMonster.AssemblyInfoInputs.cache
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\obj\Debug\net5.0\GameMonster.AssemblyInfo.cs
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\obj\Debug\net5.0\GameMonster.csproj.CoreCompileInputs.cache
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\obj\Debug\net5.0\GameMonster.dll
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\obj\Debug\net5.0\ref\GameMonster.dll
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\obj\Debug\net5.0\GameMonster.pdb
+C:\Users\gtanf\OneDrive\Bureau\GameMonster\obj\Debug\net5.0\GameMonster.genruntimeconfig.cache
